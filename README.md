@@ -1,6 +1,8 @@
-# Basic Sample Hardhat Project
+# Certified Web3 Boy
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+it's a small poject inspired by deverloper dao & Certified lover Boy album
+![FGSnPu5WUAIkv1z](https://user-images.githubusercontent.com/65205272/147593032-60bb78f9-bc18-44f0-be2c-e069bc5e39a7.jpg)
+
 
 Try running some of the following tasks:
 
